@@ -1,8 +1,8 @@
 body {
 	
-	margin: 0;
+	
 	text-align: center;
-	width: 100%;
+
     font-family: sans-serif;
   margin: 0;
   width: 100%;
@@ -17,19 +17,19 @@ body {
 h1 {
   color: #000000;
   font-family: Times New Roman, 'Palatino Linotype' serif;
-	font-size: 24px;
+	font-size: 36px;
 }
 
 h2 {
-	font-size: 16px;
+	font-size: 24px;
 }
 
 h3 {
-  font-size: 13px;
+  font-size: 18px;
 }
 
 h4 {
-
+  font-size: 15px;
 }
 
 
